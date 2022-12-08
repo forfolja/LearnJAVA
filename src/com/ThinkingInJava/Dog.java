@@ -24,7 +24,6 @@ public class Dog {
             myDogs[x].bark();
             x = x + 1;
         }
-1111
     }
     public void bark() {
         System.out.println( name + " says Ruff! ");

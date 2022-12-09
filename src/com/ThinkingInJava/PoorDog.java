@@ -1,10 +1,5 @@
 package com.ThinkingInJava;
-
-<<<<<<< HEAD
 public class PoorDog {
-=======
-class PoorDog {
->>>>>>> origin/master
     private int size;
     private String name;
 
@@ -15,7 +10,6 @@ class PoorDog {
     public String getName() {
         return name;
     }
-<<<<<<< HEAD
 }
 class PoorDogTestDrive {
     public static void main(String[] args) {
@@ -23,6 +17,4 @@ class PoorDogTestDrive {
         System.out.println("Dog size is " + one.getSize());
         System.out.println("Dog name is " + one.getName());
     }
-=======
->>>>>>> origin/master
 }

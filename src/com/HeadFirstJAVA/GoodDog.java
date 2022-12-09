@@ -1,4 +1,4 @@
-package com.ThinkingInJava;
+package com.HeadFirstJAVA;
 
 public class GoodDog {
     private int size;

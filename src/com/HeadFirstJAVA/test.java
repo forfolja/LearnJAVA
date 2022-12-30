@@ -1,8 +1,6 @@
 package com.HeadFirstJAVA;
 
-import javax.imageio.stream.MemoryCacheImageInputStream;
 import javax.sound.midi.SysexMessage;
-import java.util.ArrayList;
 
 public class test {
     /* public static void main(String[] args) {
@@ -22,10 +20,5 @@ public class test {
             i++;
         }
     } */
-    public static void main(String[] args) {
-        int [] a = new int[8];
-        ArrayList <String> myList = new ArrayList <String>();
-    }
-
-
+    int [] a = new int [8];
 }

@@ -19,6 +19,20 @@ public class test {
             System.out.println(i);
             i++;
         }
-    } */
+    }
     int [] a = new int [8];
+     */
+    Integer i = 1;
+    int j = 2;
+
+    public static void main(String[] args) {
+        test t = new test();
+        t.go();
+
+    }
+    public void go(){
+        j = i;
+        System.out.println(j);
+        System.out.println(i);
+    }
 }
